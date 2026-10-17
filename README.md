@@ -222,4 +222,4 @@ CDBurnerXP is the full free version with all features and updates included. Ther
 Ready to burn your data, music, and movies? Download CDBurnerXP now and experience the freedom of effective disc burning!
 
 ---
-**Last updated:** 2026-10-17 09:48:04 UTC
+**Last updated:** 2026-10-17 13:18:51 UTC
